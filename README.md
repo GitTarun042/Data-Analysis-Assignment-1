@@ -42,7 +42,7 @@ Educational institutions need to understand the factors that influence student a
 * `student_analysis.ipynb` – Complete analysis notebook
 * `README.md` – Project documentation
 
-Note
+## Note
 
 GitHub may occasionally display a notebook rendering error (nbformat/nbconvert). The notebook executes correctly in Google Colab and VS Code with outputs preserved.
 
